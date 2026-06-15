@@ -1,0 +1,6 @@
+{
+  "name": "Python Tic-Tac-Toe Terminal",
+  "description": "An interactive terminal simulator to run, play, and copy a beginner-friendly Python implementation of Tic-Tac-Toe",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

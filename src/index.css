@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@utility glow-text {
+  text-shadow: 0 0 10px rgba(0, 255, 157, 0.6);
+}
+
+@utility glow-cyan {
+  text-shadow: 0 0 12px rgba(0, 242, 255, 0.7);
+}
+
+@utility glow-magenta {
+  text-shadow: 0 0 12px rgba(255, 0, 212, 0.7);
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 0.4; }
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
