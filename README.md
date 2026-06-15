@@ -1,20 +1,23 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="405" height="402" alt="WhatsApp Image 2026-06-15 at 6 04 06 PM" src="https://github.com/user-attachments/assets/93572a03-2d2b-4153-afcf-41c9077bcd80" />
 </div>
+# 🎮 Tic-Tac-Toe Game 
 
-# Run and deploy your AI Studio app
+A sleek, interactive, and beautifully crafted web-based Tic-Tac-Toe game generated with the power of Google AI Studio. Grab a friend, make your moves, and claim your victory! 🐍✨
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/3585bd0a-01ab-4595-ada9-3c41126a4798
+## 🚀 Features
+* 💻 **Responsive Design:** Play seamlessly on both desktop and mobile screens.
+* 🧠 **Smart Logic:** Automatic win and tie detection with instant results.
+* ⚡ **Real-time Updates:** Smooth, zero-lag gameplay for a perfect user experience.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
+* 🐍 **Language:** TypeScript (98.0%) – Built with safety and clean logic.
+* 🎨 **Styling & Structure:** HTML5 & CSS3 for a modern look.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Made with 🐍 and ❤️ by Achu
